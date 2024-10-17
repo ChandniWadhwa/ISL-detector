@@ -9,6 +9,4 @@ SIGN SAGE is an Indian sign language detector app that uses machine learning and
 
 https://docs.google.com/presentation/d/1YpZQqw5LFJdwLASv9q4B1erhb4ct7TOzbw9ZvBaN3Jo/edit?usp=sharing
 
-# Youtube Video
 
- https://youtu.be/hXxgYGVthaI
